@@ -1,2 +1,2 @@
-# TallerGit
-Taller de control de versiones con GitHub
+# Taller 2
+Rama taller2: Taller #2 - Condicionales

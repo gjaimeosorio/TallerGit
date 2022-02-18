@@ -1,2 +1,2 @@
-# TallerGit
-Taller de control de versiones con GitHub
+# Taller 1
+Rama taller1: Taller #1 - Variables e impresión

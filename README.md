@@ -1,2 +1,2 @@
 # TallerGit
-Taller de control de versiones con GItHub
+Taller de control de versiones con GitHub
